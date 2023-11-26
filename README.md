@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breadcrumbskaveesh-shaluka&label=Profile%20views&color=0e75b6&style=flat" alt="breadcrumbskaveesh-shaluka" /> </p>
 
-- 🌱 I’m currently learning **Web Development, App Development, etc.**
+- 🌱 I’m currently learning **A web app that helps people find the best deals on online shopping, A mobile app that connects travelers with local guides, etc.**
 
 - 📝 I regularly write articles on [https://syntaxsculpt.blogspot.com/](https://syntaxsculpt.blogspot.com/)
 
