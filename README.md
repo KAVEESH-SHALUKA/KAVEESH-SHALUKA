@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **A web app that helps people find the best deals on online shopping, A mobile app that connects travelers with local guides, etc.**
 
-- 💬 Ask me about **JavaScript, Node.js, MongoDB, AWS**
+- 💬 Ask me about **JavaScript, PHP, C++, Jav**
 
 - 📝 I regularly write articles on [https://syntaxsculpt.blogspot.com/](https://syntaxsculpt.blogspot.com/)
 
