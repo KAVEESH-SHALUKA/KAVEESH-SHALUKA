@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **A web app that helps people find the best deals on online shopping, A mobile app that connects travelers with local guides, etc.**
 
-- 💬 Ask me about **JavaScript, PHP, C++, Jav**
+- 💬 Ask me about **Html, Css ,JavaScript, PHP, C++, Java**
 
 - 📝 I regularly write articles on [https://syntaxsculpt.blogspot.com/](https://syntaxsculpt.blogspot.com/)
 
 - 📫 How to reach me **kshaluka2005@gmail.com**
 
-- ⚡ Fun fact **Call me as shalu**
+- ⚡ Fun fact **Call me as shalu 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
